@@ -12,6 +12,5 @@
 
 > Turma Cx
 
-##Casos de uso do sistema de reserva de passagens aéreas
-
-![](https://imgur.com/U5kR6mL)
+#Casos de uso do sistema de reserva de passagens aéreas
+![](https://imgur.com/U5kR6mL.png)
