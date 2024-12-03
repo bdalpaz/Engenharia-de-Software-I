@@ -20,7 +20,7 @@
 
 ![](https://imgur.com/IXqcGS9.png)
 
-![](https://imgur.com/9S4rFAZ)
+![](https://imgur.com/9S4rFAZ.png)
 
 # Diagrama de caso de uso:
 ![](https://imgur.com/E6wZ4Ay.png)
