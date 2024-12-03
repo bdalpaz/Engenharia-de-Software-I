@@ -14,4 +14,4 @@
 
 ##Casos de uso do sistema de reserva de passagens aéreas
 
-![](blob:https://imgur.com/44c8cd56-e4aa-4a12-9ec3-53f1a780fcc0)
+![](https://imgur.com/U5kR6mL)
